@@ -1,4 +1,6 @@
 # === IntelliJ IDEA ===
+*.class
+
 .idea/
 *.iml
 out/
@@ -24,8 +26,8 @@ bin/
 /nbproject/private/
 /nbbuild/
 /dist/
-/nbdist/
-/.nb-gradle/
+/nbdist/ 
+/.nb-gradle/ 
 
 # === VS Code ===
 .vscode/
